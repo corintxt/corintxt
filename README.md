@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a journalist who uses code, data and graphics to tell stories. Currently I'm a data journalist at the global news agency Agence France-Presse, where I cover US news for an international audience.
+I'm a journalist who uses code, data and graphics to tell stories. Currently I'm a data journalist at the Agence France-Presse (AFP) news agency, where I cover US news for an international audience. You can find more of my work at [corinfaife.co](https://corinfaife.co/).
 
 <!--
 **corintxt/corintxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
